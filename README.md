@@ -5,7 +5,7 @@ const int a = 5;
 you dont have to type this. instead:
 cint a = 5;
 type this.
-you can see diffrence. its short and not long and complex.
+you can see diffrence. its short and not long.
 
 ## How to use it?
 just type this:
