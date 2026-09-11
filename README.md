@@ -23,7 +23,7 @@ const long long --> cllong
 const long --> clong
 const double --> cdbl
 unsigned long long --> ullong
-unsigned long --> clong
+unsigned long --> ulong
 const unsigned long --> culong
 const unsigned long long --> cullong
 const void* --> cvoid_p
