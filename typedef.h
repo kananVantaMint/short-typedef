@@ -7,7 +7,7 @@ typedef const char* cchar_p;
 typedef unsigned char uchar;
 typedef unsigned char* uchar_p;
 typedef const uchar cuchar;
-typedef const uchar_p cuchar_p;
+typedef const uchar* cuchar_p;
 typedef long long llong;
 typedef const long clong;
 typedef const llong cllong;
